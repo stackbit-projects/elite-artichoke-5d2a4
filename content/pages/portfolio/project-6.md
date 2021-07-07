@@ -1,6 +1,6 @@
 ---
 title: Le petit pré
-subtitle: Brand Development
+subtitle: Vos événements au vert à Paris
 date: '2021-02-06'
 thumb_image: /images/post-3.jpg
 thumb_image_alt: Subtle preview
